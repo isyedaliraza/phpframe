@@ -1,0 +1,8 @@
+thead > tr > td {
+    padding: 1em;
+    border: solid skyblue;
+}
+tbody > tr > td {
+    padding: 1em;
+    border: solid gray;
+}
